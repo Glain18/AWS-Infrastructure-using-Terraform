@@ -25,9 +25,9 @@ It demonstrates Infrastructure as Code (IaC) principles using modular Terraform 
    terraform apply
 
 # Outputs
-  -bucket_id = "iac-terraform-s3-glain123"
-  -instance_id = "i-00c1f0254a6a087dd"
-  -vpc_id = "vpc-0066d10f187459704"
+  - bucket_id = "iac-terraform-s3-glain123"
+  - instance_id = "i-00c1f0254a6a087dd"
+  - vpc_id = "vpc-0066d10f187459704"
 
 # Screenshots are available in /images folder showing:
   - AWS infrastructure creation (VPC, Subnet, EC2, S3)
@@ -37,8 +37,8 @@ It demonstrates Infrastructure as Code (IaC) principles using modular Terraform 
 
 # Key Learnings
 This project helped reinforce the following  concepts:
--Infrastructure as Code (IaC) using Terraform
--AWS networking (VPC, Subnets, Routing, Security Groups)
--EC2 provisioning and SSH access
--S3 bucket creation and management
--Modular Terraform project structure
+- Infrastructure as Code (IaC) using Terraform
+- AWS networking (VPC, Subnets, Routing, Security Groups)
+- EC2 provisioning and SSH access
+- S3 bucket creation and management
+- Modular Terraform project structure
