@@ -17,12 +17,12 @@ It demonstrates Infrastructure as Code (IaC) principles using modular Terraform 
 - Linux CLI
 
 # How to Deploy
-1 Configure AWS credentials
-2. Run:
-   terraform init
-   terraform fmt
-   terraform plan
-   terraform apply
+- Configure AWS credentials
+-  Run:
+   - terraform init
+   - terraform fmt
+   - terraform plan
+   - terraform apply
 
 # Outputs
   - bucket_id = "iac-terraform-s3-glain123"
