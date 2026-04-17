@@ -30,10 +30,10 @@ It demonstrates Infrastructure as Code (IaC) principles using modular Terraform 
   -vpc_id = "vpc-0066d10f187459704"
 
 # Screenshots are available in /images folder showing:
-  AWS infrastructure creation (VPC, Subnet, EC2, S3)
-  EC2 instance running in AWS Console
-  SSH connection into EC2 instance
-  Running services inside the EC2 instance
+  - AWS infrastructure creation (VPC, Subnet, EC2, S3)
+  - EC2 instance running in AWS Console
+  - SSH connection into EC2 instance
+  - Running services inside the EC2 instance
 
 # Key Learnings
 This project helped reinforce the following  concepts:
