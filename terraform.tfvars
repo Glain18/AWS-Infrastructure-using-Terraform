@@ -1,0 +1,6 @@
+aws_region    = "us-east-1"
+vpc_cidr      = "10.0.0.0/16"
+subnet_cidr   = "10.0.1.0/24"
+instance_type = "t3.micro"
+ami_id        = "ami-098e39bafa7e7303d"
+bucket_name   = "iac-terraform-s3-glain123"
